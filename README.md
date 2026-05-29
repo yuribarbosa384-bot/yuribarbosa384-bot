@@ -1,25 +1,25 @@
 # Yuri Barbosa Couto
 
-Desenvolvedora full stack com foco em aplicações web, APIs e automação de processos.
+Desenvolvedor full stack com foco em aplicações web, APIs, automação de processos e dados operacionais.
 
-Tenho experiência com rotinas administrativas, controle de documentos, planilhas, cadastros e automação de processos. Hoje transformo essa vivência em projetos de software com foco em organização, produtividade e dados.
+Tenho experiência com rotinas administrativas, controle de documentos, planilhas, cadastros e automação de processos. Hoje transformo essa vivência em projetos de software com foco em organização, produtividade e tomada de decisão.
 
 ## Foco atual
 
 - React, TypeScript e interfaces orientadas a fluxo de trabalho
-- APIs REST com validação e regras de negócio
-- Testes automatizados, CI e documentação técnica
-- SQL, automação e análise de dados
+- APIs REST com validação, regras de negócio e testes
+- SQLite, SQL, persistência local e leitura de indicadores
+- CI, documentação técnica e organização de repositórios
 
 ## Projetos em destaque
 
-### OpsFlow Service Desk
+### OpsFlow Administrativo
 
-Sistema full-stack para controlar chamados, prioridades, SLA e status operacional.
+Sistema full stack para gestão de tarefas administrativas com dashboard, banco SQLite, filtros inteligentes, edição, exclusão e insights operacionais.
 
-- React, TypeScript, Express, Zod e Vitest
-- API REST com filtros e validação
-- Dashboard operacional com tabela e painel de detalhe
+- React, TypeScript, Express, SQLite, Zod e Vitest
+- API REST com filtros, métricas, criação, edição e exclusão
+- Dashboard com taxa de conclusão, tarefas vencidas e gargalos por responsável/categoria
 - CI com GitHub Actions
 
 Repositório: https://github.com/yuribarbosa384-bot/opsflow-service-desk
@@ -36,7 +36,7 @@ Repositório: https://github.com/yuribarbosa384-bot/yuri-dev-portfolio
 
 ## Tecnologias
 
-`React` `TypeScript` `JavaScript` `Node.js` `Express` `Python` `Flask` `SQL` `HTML` `CSS` `Git` `GitHub Actions`
+`React` `TypeScript` `JavaScript` `Node.js` `Express` `SQLite` `SQL` `Zod` `Vitest` `HTML` `CSS` `Git` `GitHub Actions`
 
 ## Contato
 
