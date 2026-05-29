@@ -1,48 +1,33 @@
 # Yuri Barbosa Couto
 
-Desenvolvedor full stack focado em transformar rotinas administrativas em sistemas web com React, TypeScript, Node.js, SQL e automação.
+Desenvolvedor full stack em formação, focado em transformar rotinas administrativas, documentos, planilhas e controles operacionais em sistemas web com React, TypeScript, Node.js, SQL, Python e automação.
 
-Tenho experiência com controle de documentos, planilhas, cadastros e processos administrativos. Hoje uso essa vivência para criar projetos de software com foco em organização, produtividade e tomada de decisão.
+[Portfólio](https://yuribarbosa384-bot.github.io/yuri-dev-portfolio/) · [CV PDF](https://yuribarbosa384-bot.github.io/yuri-dev-portfolio/Yuri_Barbosa_Couto_CV.pdf) · [E-mail](mailto:yuri.barbosa384@gmail.com)
 
-## Foco atual
+## Foco Atual
 
-- React, TypeScript e interfaces orientadas a fluxo de trabalho
-- APIs REST com validação, regras de negócio e testes
-- SQLite, SQL, persistência local e leitura de indicadores
-- CI, documentação técnica, GitHub Pages e organização de repositórios
+- Interfaces React e TypeScript para fluxos de trabalho reais
+- APIs REST com validação, regras de negócio, testes e documentação
+- SQL, SQLite, filtros, indicadores e relatórios operacionais
+- CI, GitHub Actions, CodeQL, Dependabot e organização de repositórios
 
-## Projetos principais
+## Projetos Principais
 
-### OpsFlow Administrativo
+| Projeto | Demo | Stack | O que demonstra |
+|---|---|---|---|
+| [OpsFlow Administrativo](https://github.com/yuribarbosa384-bot/opsflow-service-desk) | [Abrir demo](https://yuribarbosa384-bot.github.io/opsflow-service-desk/) | React, TypeScript, Express, SQLite, Zod, Vitest | Sistema full stack com dashboard, score de risco, Kanban, CRUD, filtros, testes, CI e documentação técnica |
+| [Portfólio Dev](https://github.com/yuribarbosa384-bot/yuri-dev-portfolio) | [Abrir site](https://yuribarbosa384-bot.github.io/yuri-dev-portfolio/) | React, TypeScript, Vite, Tailwind CSS | Vitrine profissional com estudo de caso, CV, links de contratação e narrativa técnica |
+| [Cashback Nology](https://github.com/yuribarbosa384-bot/cashback-nology) | Em preparação | Python, Flask, SQLAlchemy, HTML, CSS, JavaScript | API com regras de negócio, persistência, histórico por IP e testes de smoke |
 
-Command Center para priorizar demandas administrativas, detectar gargalos, calcular score de risco e controlar prazos críticos.
+## Narrativa Profissional
 
-- React, TypeScript, Express, SQLite, Zod e Vitest
-- Dashboard, fila operacional, Kanban, relatórios e CRUD completo
-- Score de risco por prazo, prioridade, responsável e categoria
-- CI com GitHub Actions e demo no GitHub Pages
+Tenho experiência com controle de documentos, planilhas, cadastros, contratos e processos administrativos. Uso essa vivência para criar projetos de software que respondem perguntas de operação:
 
-Demo: https://yuribarbosa384-bot.github.io/opsflow-service-desk/
-
-Repositório: https://github.com/yuribarbosa384-bot/opsflow-service-desk
-
-### Portfólio Dev
-
-Site pessoal para apresentar projetos, competências e estudos de caso.
-
-- React, TypeScript, Vite e Tailwind CSS
-- Layout responsivo
-- Conteúdo pensado para recrutadores e avaliadores técnicos
-
-Demo: https://yuribarbosa384-bot.github.io/yuri-dev-portfolio/
-
-Repositório: https://github.com/yuribarbosa384-bot/yuri-dev-portfolio
-
-### Cashback Nology
-
-Aplicação Flask com cálculo de cashback, histórico por IP e regras de negócio documentadas.
-
-Repositório: https://github.com/yuribarbosa384-bot/cashback-nology
+- O que está vencido?
+- Quem está sobrecarregado?
+- Onde existe gargalo?
+- Qual demanda deve ser priorizada?
+- Como transformar rotina manual em sistema?
 
 ## Tecnologias
 
@@ -50,5 +35,6 @@ Repositório: https://github.com/yuribarbosa384-bot/cashback-nology
 
 ## Contato
 
-- E-mail: yuri.barbosa384@gmail.com
-- GitHub: https://github.com/yuribarbosa384-bot
+- E-mail: [yuri.barbosa384@gmail.com](mailto:yuri.barbosa384@gmail.com)
+- Portfólio: [yuribarbosa384-bot.github.io/yuri-dev-portfolio](https://yuribarbosa384-bot.github.io/yuri-dev-portfolio/)
+- GitHub: [github.com/yuribarbosa384-bot](https://github.com/yuribarbosa384-bot)
