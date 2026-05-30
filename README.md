@@ -15,7 +15,7 @@ Desenvolvedor full stack em formação, focado em transformar rotinas administra
 
 | Projeto | Demo | Stack | O que demonstra |
 |---|---|---|---|
-| [OpsFlow Administrativo](https://github.com/yuribarbosa384-bot/opsflow-service-desk) | [Abrir demo](https://yuribarbosa384-bot.github.io/opsflow-service-desk/) | React, TypeScript, Express, SQLite, Zod, Vitest | Sistema full stack com dashboard, score de risco, Kanban, CRUD, filtros, testes, CI e documentação técnica |
+| [OpsFlow Administrativo](https://github.com/yuribarbosa384-bot/opsflow-service-desk) | [Abrir demo](https://yuribarbosa384-bot.github.io/opsflow-service-desk/) | React, TypeScript, Express, SQLite, Zod, Vitest | Central de Operações e SLA com dashboard, score de risco, Kanban, CRUD, filtros, auditoria, comentários, testes, CI e documentação técnica |
 | [Portfólio Dev](https://github.com/yuribarbosa384-bot/yuri-dev-portfolio) | [Abrir site](https://yuribarbosa384-bot.github.io/yuri-dev-portfolio/) | React, TypeScript, Vite, Tailwind CSS | Vitrine profissional com estudo de caso, CV, links de contratação e narrativa técnica |
 
 ## Projeto em Evolução
