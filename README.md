@@ -17,7 +17,10 @@ Desenvolvedor full stack em formação, focado em transformar rotinas administra
 |---|---|---|---|
 | [OpsFlow Administrativo](https://github.com/yuribarbosa384-bot/opsflow-service-desk) | [Abrir demo](https://yuribarbosa384-bot.github.io/opsflow-service-desk/) | React, TypeScript, Express, SQLite, Zod, Vitest | Sistema full stack com dashboard, score de risco, Kanban, CRUD, filtros, testes, CI e documentação técnica |
 | [Portfólio Dev](https://github.com/yuribarbosa384-bot/yuri-dev-portfolio) | [Abrir site](https://yuribarbosa384-bot.github.io/yuri-dev-portfolio/) | React, TypeScript, Vite, Tailwind CSS | Vitrine profissional com estudo de caso, CV, links de contratação e narrativa técnica |
-| [Cashback Nology](https://github.com/yuribarbosa384-bot/cashback-nology) | Em preparação | Python, Flask, SQLAlchemy, HTML, CSS, JavaScript | API com regras de negócio, persistência, histórico por IP e testes de smoke |
+
+## Projeto em Evolução
+
+- [Cashback Nology](https://github.com/yuribarbosa384-bot/cashback-nology) - Python, Flask, SQLAlchemy e regras de negócio para cálculo de cashback, em refinamento de deploy e apresentação pública.
 
 ## Narrativa Profissional
 
