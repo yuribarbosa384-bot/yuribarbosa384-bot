@@ -4,6 +4,8 @@ Desenvolvedor full stack em formação, focado em transformar rotinas administra
 
 [Portfólio](https://yuribarbosa384-bot.github.io/yuri-dev-portfolio/) · [CV PDF](https://yuribarbosa384-bot.github.io/yuri-dev-portfolio/Yuri_Barbosa_Couto_CV.pdf) · [E-mail](mailto:yuri.barbosa384@gmail.com)
 
+Busco estágio ou oportunidade júnior em desenvolvimento full stack, especialmente em sistemas internos, operações, backoffice, dashboards e automação.
+
 ## Foco Atual
 
 - Interfaces React e TypeScript para fluxos de trabalho reais
