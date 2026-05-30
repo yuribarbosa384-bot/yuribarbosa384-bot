@@ -2,7 +2,7 @@
 
 Desenvolvedor full stack em formação, focado em transformar rotinas administrativas, documentos, planilhas e controles operacionais em sistemas web com React, TypeScript, Node.js, SQL, Python e automação.
 
-[Portfólio](https://yuribarbosa384-bot.github.io/yuri-dev-portfolio/) · [CV PDF](https://yuribarbosa384-bot.github.io/yuri-dev-portfolio/Yuri_Barbosa_Couto_CV.pdf) · [E-mail](mailto:yuri.barbosa384@gmail.com)
+[Portfólio](https://yuribarbosacouto.github.io/yuri-dev-portfolio/) · [CV PDF](https://yuribarbosacouto.github.io/yuri-dev-portfolio/Yuri_Barbosa_Couto_CV.pdf) · [E-mail](mailto:yuri.barbosa384@gmail.com)
 
 Busco estágio ou oportunidade júnior em desenvolvimento full stack, especialmente em sistemas internos, operações, backoffice, dashboards e automação.
 
@@ -17,8 +17,8 @@ Busco estágio ou oportunidade júnior em desenvolvimento full stack, especialme
 
 | Projeto | Demo | Stack | O que demonstra |
 |---|---|---|---|
-| [OpsFlow Administrativo](https://github.com/yuribarbosa384-bot/opsflow-service-desk) | [Abrir demo](https://yuribarbosa384-bot.github.io/opsflow-service-desk/) | React, TypeScript, Express, SQLite, Zod, Vitest | Central de Operações e SLA com dashboard, score de risco, Kanban, CRUD, filtros, auditoria, comentários, testes, CI e documentação técnica |
-| [Portfólio Dev](https://github.com/yuribarbosa384-bot/yuri-dev-portfolio) | [Abrir site](https://yuribarbosa384-bot.github.io/yuri-dev-portfolio/) | React, TypeScript, Vite, Tailwind CSS | Vitrine profissional com estudo de caso, CV, links de contratação e narrativa técnica |
+| [OpsFlow Administrativo](https://github.com/yuribarbosacouto/opsflow-service-desk) | [Abrir demo](https://yuribarbosacouto.github.io/opsflow-service-desk/) | React, TypeScript, Express, SQLite, Zod, Vitest | Central de Operações e SLA com dashboard, score de risco, Kanban, CRUD, filtros, auditoria, comentários, testes, CI e documentação técnica |
+| [Portfólio Dev](https://github.com/yuribarbosacouto/yuri-dev-portfolio) | [Abrir site](https://yuribarbosacouto.github.io/yuri-dev-portfolio/) | React, TypeScript, Vite, Tailwind CSS | Vitrine profissional com estudo de caso, CV, links de contratação e narrativa técnica |
 
 ## Narrativa Profissional
 
@@ -37,5 +37,5 @@ Tenho experiência com controle de documentos, planilhas, cadastros, contratos e
 ## Contato
 
 - E-mail: [yuri.barbosa384@gmail.com](mailto:yuri.barbosa384@gmail.com)
-- Portfólio: [yuribarbosa384-bot.github.io/yuri-dev-portfolio](https://yuribarbosa384-bot.github.io/yuri-dev-portfolio/)
-- GitHub: [github.com/yuribarbosa384-bot](https://github.com/yuribarbosa384-bot)
+- Portfólio: [yuribarbosacouto.github.io/yuri-dev-portfolio](https://yuribarbosacouto.github.io/yuri-dev-portfolio/)
+- GitHub: [github.com/yuribarbosacouto](https://github.com/yuribarbosacouto)
